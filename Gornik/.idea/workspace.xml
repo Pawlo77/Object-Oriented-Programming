@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feae4758-437b-4fa0-b49b-66890925ed0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gornik.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalkolit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gornik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MineryObjectEvaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObiektKopalny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RadioaktywnyObiektKopalniany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uranit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kret/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kret/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680278920609</updated>
-      <workItem from="1680278921827" duration="3481000" />
+      <workItem from="1680278921827" duration="3764000" />
     </task>
     <servers />
   </component>
