@@ -1,0 +1,3 @@
+O###15:50###Barcelona (BCN)###W6 1475###Wizz Air###started###108-118###
+O###17:10###Birmingham (BHX)###W6 1321###Wizz Air###started###108-105###
+O###17:10###Monachium (MUC)###LO 353###LOT###started###241-280###

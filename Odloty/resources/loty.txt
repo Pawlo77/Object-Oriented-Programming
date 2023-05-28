@@ -1,0 +1,98 @@
+O###15:50###Barcelona (BCN)###W6 1475###Wizz Air###started###108-118###
+O###17:10###Birmingham (BHX)###W6 1321###Wizz Air###started###108-118###
+O###17:10###Monachium (MUC)###LO 353###LOT###started###241-280###
+O###17:10###Monachium (MUC)###LH 1615###Lufthansa###started###221-230###
+O###17:15###Hamburg (HAM)###LO 393###LOT###boarding###241-280###
+O###17:35###Londyn-Luton (LTN)###W6 1307###Wizz Air###started###108-118###
+O###17:40###Doha (DOH)###QR 260###Qatar Airways###started###128-135###
+O###17:40###Tirana (TIA)###ENT7131###Enter Air###canceled###128-135###
+O###17:45###Rzym (FCO)###W6 1441###Wizz Air###started###108-118###
+P###19:15###Kraków (KRK)###LO 3924###LOT###true###2###
+P###19:20###Amsterdam (AMS)###KL 1367###KLM###true###1###
+P###19:25###Sofia (SOF)###LO 634###LOT###true###2###
+O###19:55###Zielona Góra (IEG)###LO 3985###LOT###boarding###241-280###
+O###20:05###Londyn-Heathrow (LHR)###LO 285###LOT###started###241-280###
+P###19:35###Marsa-Alam (RMF)###3Z 7107###Smartwings###false###5###
+P###19:35###Marsa-Alam (RMF)###3Z 7131###Smartwings###false###2###
+P###19:35###Marsa-Alam (RMF)###QS 7107###Smartwings###false###3###
+O###19:55###Stambuł (IST)###LO 137###LOT###boarding###241-280###
+O###19:55###Wrocław (WRO)###LO 3859###LOT###started###241-280###
+P###19:20###Gdańsk (GDN)###LO 3816###LOT###true###4###
+P###19:20###Heraklion (HER)###QS 1703###Smartwings###true###3###
+O###20:15###Amsterdam (AMS)###LO 269###LOT###started###241-280###
+O###20:15###Bruksela (BRU)###LO 231###LOT###boarding###241-280###
+P###21:10###Praga (PRG)###LO 526###LOT###true###4###
+P###21:10###Sztokholm (ARN)###LO 458###LOT###false###5###
+P###21:15###Dubrownik (DBV)###LO 566###LOT###true###3###
+O###21:15###Lizbona (LIS)###W6 1593###Wizz Air###boarding###108-118###
+O###21:40###Tel Awiw (TLV)###LY 562###El Al###boarding###233-240###
+O###22:15###Erywań (EVN)###LO 727###LOT###boarding###241-280###
+P###21:25###Tel Awiw (TLV)###LY 561###El Al###true###2###
+O###22:20###Tbilisi (TBS)###LO 723###LOT###canceled###241-280###
+P###21:55###Luksemburg (LUX)###LO 254###LOT###true###3###
+P###21:55###Mediolan (MXP)###LO 320###LOT###true###4###
+P###22:00###Nicea (NCE)###LO 344###LOT###false###2###
+O###22:35###Wilno (VNO)###LO 773###LOT###boarding###241-280###
+O###22:35###Wrocław (WRO)###LO 3849###LOT###boarding###241-280###
+O###22:50###Kraków (KRK)###LO 3911###LOT###canceled###241-280###
+O###22:55###Bukareszt (OTP)###LO 643###LOT###boarding###241-287###
+P###18:55###Paryż (CDG)###AF 1046###Air France###true###1###
+P###19:00###Bukareszt (OTP)###LO 646###LOT###true###2###
+P###19:10###Katowice (KTW)###LO 3886###LOT###false###3###
+O###20:15###Paryż (CDG)###LO 333###LOT###boarding###241-280###
+P###19:35###Zagrzeb (ZAG)###LO 614###LOT###true###4###
+P###19:45###Heraklion (HER)###ENT5056###Enter Air###true###5###
+P###19:55###Kopenhaga (CPH)###SK 2751###SAS###true###6###
+P###20:10###Heraklion (HER)###GQ 3720###SEH###false###2###
+O###20:15###Dusseldorf (DUS)###LO 405###LOT###boarding###241-280###
+O###20:25###Hamburg (HAM)###LO 401###LOT###boarding###241-280###
+O###20:35###Goeteborg-Landvetter (GOT)###LO 495###LOT###boarding###241-280###
+O###20:35###Sztokholm (ARN)###LO 455###LOT###boarding###241-280###
+O###20:40###Kopenhaga (CPH)###LO 459###LOT###boarding###241-280###
+O###20:40###Malaga (AGP)###LO 6203###LOT###boarding###208-210###
+O###20:55###Malaga (AGP)###QS 7360###Smartwings###boarding###132-134###
+O###21:15###Dalaman (DLM)###ENT7015###Enter Air###boarding###101-103###
+O###21:15###Dalaman (DLM)###ENT1047###Enter Air###canceled###101-103###
+P###20:15###Malaga (AGP)###W6 1336###Wizz Air###true###3###
+P###20:35###Berlin (BER)###LO 390###LOT###true###4###
+P###20:45###Antalia (AYT)###ENT7484###Enter Air###true###5###
+P###20:45###Wiedeń (VIE)###LO 226###LOT###true###6###
+P###20:55###Wenecja (VCE)###LO 312###LOT###true###3###
+P###21:00###Hamburg (HAM)###LO 394###LOT###true###4###
+P###21:05###Warna (VAR)###ENT7086###Enter Air###true###5###
+P###21:10###Kopenhaga (CPH)###LO 462###LOT###true###5###
+P###21:10###Monachium (MUC)###LO 376###LOT###true###3###
+P###21:35###Billund (BLL)###LO 468###LOT###true###2###
+P###21:35###Bruksela (BRU)###LO 234###LOT###true###1###
+O###17:50###Praga (PRG)###LO 525###LOT###started###241-280###
+O###18:20###Budapeszt (BUD)###LO 531###LOT###started###241-280###
+O###18:25###Delhi (DEL)###LO 071###LOT###boarding###241-280###
+O###18:25###Londyn-Heathrow (LHR)###BA 851###British Airways###boarding###125-127###
+O###18:30###Sztokholm (ARN)###SK 2604###SAS###boarding###207-210###
+O###18:45###Dubai (DXB)###FZ 1830###Fly Dubai###boarding###136-140###
+O###18:50###Kopenhaga (CPH)###SK 2752###SAS###boarding###136-140###
+P###21:40###Dusseldorf (DUS)###LO 408###LOT###true###1###
+P###21:45###Amsterdam (AMS)###LO 268###LOT###true###3###
+P###21:45###Londyn-Heathrow (LHR)###BA 878###British Airways###true###5###
+O###19:05###Frankfurt (FRA)###LH 1351###Lufthansa###boarding###221-230###
+O###19:10###Helsinki (HEL)###AY 1146###Finnair###boarding###121-122###
+P###21:35###Frankfurt (FRA)###LO 380###LOT###true###1###
+O###19:55###Gdańsk (GDN)###LO 3825###LOT###started###241-280###
+O###19:55###Kraków (KRK)###LO 3921###LOT###boarding###41-280###
+P###21:35###Budapeszt (BUD)###LO 532###LOT###true###1###
+P###21:35###Paryż (CDG)###AF 1246###Air France###false###2###
+O###19:20###Wiedeń (VIE)###OS 632###Austrian###boarding###221-230###
+O###19:25###Szczecin (SZZ)###LO 3935###LOT###started###241-280###
+O###19:50###Paryż (CDG)###AF 1047###Air France###started###201-204###
+P###21:45###Londyn-Heathrow (LHR)###LO 280###LOT###true###1###
+P###21:45###Oslo (OSL)###LO 484###LOT###true###2###
+O###22:25###Bejrut (BEY)###LO 145###LOT###boarding###241-280###
+O###22:35###Katowice (KTW)###LO 3879###LOT###boarding###241-280###
+O###22:35###Poznań (POZ)###LO 3941###LOT###canceled###241-280###
+P###21:45###Zurych (ZRH)###LO 420###LOT###true###3###
+P###21:50###Genewa (GVA)###LO 416###LOT###false###4###
+P###21:50###Monachium (MUC)###LH 1616###Lufthansa###true###5###
+P###22:00###Paryż (CDG)###LO 336###LOT###false###1###
+P###22:10###Amsterdam (AMS)###KL 1369###KLM###true###2###
+P###22:10###Frankfurt (FRA)###LH 1352###Lufthansa###true###3###
+P###22:10###Szczecin (SZZ)###LO 3936###LOT###false###4###

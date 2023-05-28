@@ -1,0 +1,110 @@
+obiekty.Jacht----6335a17b414a487d61045cf4----26----Port Royal----54.04424;21.74141----220.0----30----
+obiekty.Jacht----62b1a2f90069fd049a3d7b8f----32 Dreamer----Zielona Zatoka----53.97291;21.76123----427.5----40----
+obiekty.Jacht----634922e8134cf0a9a00be5c6----32----Port Royal----54.04424;21.74141----550.0----30----
+obiekty.Jacht----6335a2457d0427b2d601af29----26----Port Royal----54.04424;21.74141----220.0----30----
+obiekty.Jacht----6349079448192301bb03f2e6----33----Port Royal----54.04424;21.74141----700.0----30----
+House boat----638dca94b6bc8a517f07c37a----30----Port Tło dla Mew----53.963983;21.757142----494.23----50----N----
+obiekty.Jacht----634922e8134cf0a9a00be5c6----32----Port Royal----54.04424;21.74141----550.0----30----
+House boat----63e667e604b6d69a4d082d48----Nexus Revo 870----Yacht Port ZHP----54.210209;21.735163----618.57----25----N----
+obiekty.Jacht----5b7bd351b0e016555d676cf7----Maxus 33.1----Yacht Port ZHP----54.210209;21.735163----639.88----50----
+obiekty.Jacht----6349544592617ed954020b97----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----6349576e6ed33945c5068795----26----Port Royal----54.04424;21.74141----250.0----30----
+House boat----64491ee9ab1dd222920adb6e----30----Sailing Center Lok----54.033371;21.761581----800.0----42----Y----
+MOTORÓWKA----63f8c7bd6f565da1e40cdcb6----580----Stanica Wodna Stranda----54.042873;21.738285----167.0----100----
+obiekty.Jacht----61e937c8057e1e2933602396----Maxus 24----Przystań Wind Yacht Charter----54.012936;21.739754----233.64----40----
+obiekty.Jacht----6335a17b414a487d61045cf4----26----Port Royal----54.04424;21.74141----220.0----30----
+MOTORÓWKA----64461476a5f250e9ee07ba53----270 GTO----Tajty Marina----54.022961;21.730067----2635.0----250----
+MOTORÓWKA----641dbc1fe59f39790f05402b----780----Marina Sopot----54.447721;18.577035----6850.0----300----
+MOTORÓWKA----6317114e8dc235fe110ec0f1----755----Tajty Marina----54.022961;21.730067----1600.0----225----
+obiekty.Jacht----5edfb29947dc353cb207029b----30----Port Tło dla Mew----53.963983;21.757142----550.0----30----
+obiekty.Jacht----5fdb5468cd0d1443785431f6----Maxus 33.1----Port AZS Wilkasy----54.008645;21.738013----639.88----50----
+obiekty.Jacht----63a569217cb35e5aeb0436b0----Maxus Evo 24----Port AZS Wilkasy----54.008645;21.738013----340.1----50----
+obiekty.Jacht----5b7596df49a5e6499d0b8666----Maxus Evo 24----Yacht Port ZHP----54.210209;21.735163----304.91----50----
+obiekty.Jacht----5fa3d33fb0a10f47f21f1714----27----Hak Yacht Club----53.640064;21.544323----340.0----30----
+obiekty.Jacht----63ee42ac9a7f7bad6a0f2771----28----Camping & marina SUN BILA----53.958419;21.737498----423.0----30----
+House boat----638dca94b6bc8a517f07c37a----30----Port Tło dla Mew----53.963983;21.757142----494.23----50----Y----
+MOTORÓWKA----64634cb8650ddca4dc03e681----820----Wioska Rowerowa----53.682526;21.580753----430.0----30----
+obiekty.Jacht----6409fdeb8741dd5aee0a939d----660----Camping & marina SUN BILA----53.958419;21.737498----130.0----50----
+obiekty.Jacht----5fdb54781af76b6355600b8d----Maxus 33.1----Port AZS Wilkasy----54.008645;21.738013----639.88----50----
+obiekty.Jacht----634951d27d7429d51e0b26e2----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----5e74c723c5002e5920279c4e----Maxus Evo 24----Port AZS Wilkasy----54.008645;21.738013----322.09----50----
+MOTORÓWKA----6239af322b37f76bac0bc844----VR6 E----Port czarteruj.pl Mikołajki ----53.80988;21.568251----827.25----250----
+MOTORÓWKA----61f7ed3f75fff21dc32b5748----485----Tajty Marina----54.022961;21.730067----531.25----10----
+obiekty.Jacht----5fa3b03e8bf92b17a24b2593----24----Hak Yacht Club----53.640064;21.544323----190.0----30----
+obiekty.Jacht----63a45b072d35d39b20065ef3----Maxus 33.1----Zielona Zatoka----53.97291;21.76123----534.38----40----
+obiekty.Jacht----5fdb244ea638da2d50285d8c----Maxus Evo 24----Port AZS Wilkasy----54.008645;21.738013----339.04----50----
+obiekty.Jacht----62b077c00f1abd387d70472a----27----Zielona Zatoka----53.97291;21.76123----400.0----40----
+obiekty.Jacht----5c56213daa3b2758b47c82a3----Maxus 26----Port AZS Wilkasy----54.008645;21.738013----361.64----50----
+obiekty.Jacht----62381f008ea1a31efc46a301----29----Zalew Wiślany KEJA----54.283335;19.428455----448.0----20----
+obiekty.Jacht----5fd8782483c47d3de0741465----30----Zielona Zatoka----53.97291;21.76123----360.0----40----
+obiekty.Jacht----5e6f4b682da36f0c9d4c35a3----Maxus 33.1----Yacht Port ZHP----54.210209;21.735163----639.88----50----
+obiekty.Jacht----5edfb29947dc353cb207029b----30----Port Tło dla Mew----53.963983;21.757142----550.0----30----
+obiekty.Jacht----5fce23d91c7f4a1c8648aad4----33----Sailing Center Lok----54.033371;21.761581----750.0----35----
+obiekty.Jacht----5e71ddf07c633c06366d1ccb----Maxus 26----Port AZS Wilkasy----54.008645;21.738013----384.24----50----
+obiekty.Jacht----5fdb2641fd8cdf7a5b0d14e6----Maxus Evo 24----Yacht Port ZHP----54.210209;21.735163----339.04----50----
+obiekty.Jacht----62b5490fdcdc5057427eb722----24.4----Zielona Zatoka----53.97291;21.76123----351.5----40----
+obiekty.Jacht----5fa3b03e8bf92b17a24b2593----24----Hak Yacht Club----53.640064;21.544323----190.0----30----
+obiekty.Jacht----5f8966c3719f1b57a0669d07----Maxus 28----Zalew Wiślany KEJA----54.283335;19.428455----515.0----20----
+obiekty.Jacht----6347d7674dbd704fa8048a61----26----Port Royal----54.04424;21.74141----220.0----30----
+obiekty.Jacht----6349560f81b5d7d435053c4b----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----641b2a13f9b881ce3a0088a5----700----Port Tło dla Mew----53.963983;21.757142----200.0----30----
+obiekty.Jacht----63455a39c36a9f07f8074b8d----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----5fdb54781af76b6355600b8d----Maxus 33.1----Port AZS Wilkasy----54.008645;21.738013----639.88----50----
+obiekty.Jacht----58f9c2a16bfed0ede60b2b20----44----Marina Kołobrzeg----54.179752;15.559229----839.5----40----
+MOTORÓWKA----62738bf5a8812b7f245681c0----690 Sport Cruiser----Marina Sopot----54.447721;18.577035----1092.0----150----
+House boat----6281e1a78cdc7e2f2866b077----825----Wioska Rowerowa----53.682526;21.580753----550.0----25----N----
+obiekty.Jacht----6335941631a0b89a5e05a61e----26----Port Royal----54.04424;21.74141----220.0----30----
+MOTORÓWKA----62a322ef3b9a0f20824d6b50----Escapade 600 Camper----Tajty Marina----54.022961;21.730067----343.56----30----
+House boat----63354c4aa3c13757e401667b----30----Port Royal----54.04424;21.74141----650.0----53----Y----
+MOTORÓWKA----6336cb77bba1afe23004e2a4----520----Ekomarina Giżycko----54.031943;21.772855----600.0----10----
+obiekty.Jacht----63495726ab2b5924ae01b66a----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----634951d27d7429d51e0b26e2----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----63a464de88001db4d8080ab4----Maxus Evo 24----Yacht Port ZHP----54.210209;21.735163----339.04----50----
+obiekty.Jacht----5b7bd351b0e016555d676cf7----Maxus 33.1----Yacht Port ZHP----54.210209;21.735163----639.88----50----
+House boat----5fdb289b9d3852136b043dba----Nexus Revo 870----Yacht Port ZHP----54.210209;21.735163----556.02----25----N----
+obiekty.Jacht----5faa8ea6183314021a78c11c----785----Port Wodnik----53.641715;21.555428----127.88----50----
+MOTORÓWKA----64461016025e1bc9ad0d4ecf----200 Sport----Tajty Marina----54.022961;21.730067----1317.5----115----
+obiekty.Jacht----5fdb223ce331801d316ff025----Maxus Evo 24----Port AZS Wilkasy----54.008645;21.738013----339.04----50----
+obiekty.Jacht----63c81aa4578122e17d0d2a8a----32----Eko Marina Polańczyk----49.382078;22.446108----450.0----30----
+MOTORÓWKA----62baa7cdf583727dd27af973----690 Sport Cruiser----Marina Gdynia----54.517676;18.54999----919.56----150----
+obiekty.Jacht----63a5690eb2023674c105e052----Maxus Evo 24----Port AZS Wilkasy----54.008645;21.738013----340.1----50----
+obiekty.Jacht----63495333dadb5977e80a890e----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----62381f008ea1a31efc46a301----29----Zalew Wiślany KEJA----54.283335;19.428455----448.0----20----
+obiekty.Jacht----63a581dea9c24dfe450619ea----Maxus 33----Zielona Zatoka----53.97291;21.76123----405.0----40----
+MOTORÓWKA----61f7a41c5b22c420a7420bf9----60----Tajty Marina----54.022961;21.730067----75.05----60----
+obiekty.Jacht----634957c1c5c04e155c0fa2e2----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----634957fbebe6dc575d0de784----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----5b743f482b6a995dda75e823----Maxus 26----Yacht Port ZHP----54.210209;21.735163----361.64----50----
+obiekty.Jacht----62d651903ccbd01d6d40e42b----24----Marina Dąbie----53.403416;14.663621----236.56----30----
+MOTORÓWKA----63fe20f52c680f97c30a1300----Texas 540----Stanica Wodna Stranda----54.042873;21.738285----67.0----10----
+obiekty.Jacht----62b1a2f90069fd049a3d7b8f----32 Dreamer----Zielona Zatoka----53.97291;21.76123----427.5----40----
+obiekty.Jacht----63491eb25bbff584b30aa8b2----32----Port Royal----54.04424;21.74141----450.0----30----
+MOTORÓWKA----5ed4ffb8cc87bb11a7209115----555----Mamry Yacht Port----54.211586;21.733207----650.0----115----
+obiekty.Jacht----61e524296e2018528c2a5afa----900----Zielona Zatoka----53.97291;21.76123----342.0----40----
+MOTORÓWKA----5ed4ffb8cc87bb11a7209115----555----Mamry Yacht Port----54.211586;21.733207----650.0----115----
+obiekty.Jacht----61e524296e2018528c2a5afa----900----Zielona Zatoka----53.97291;21.76123----342.0----40----
+obiekty.Jacht----63c82827c7f93b81420c4007----Maxus 33----Zielona Zatoka----53.97291;21.76123----405.0----40----
+obiekty.Jacht----634956874119eb4df4076679----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----5fdb4017e8fb4d040b0b0895----Maxus 33.1----Port AZS Wilkasy----54.008645;21.738013----639.88----50----
+obiekty.Jacht----63c6b27e49c86cf6510a51a5----30----Eko Marina Polańczyk----49.382078;22.446108----450.0----30----
+obiekty.Jacht----5e6f4b682da36f0c9d4c35a3----Maxus 33.1----Yacht Port ZHP----54.210209;21.735163----639.88----50----
+obiekty.Jacht----634955580b34178fac0bd53e----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----6349544592617ed954020b97----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----63a45b072d35d39b20065ef3----Maxus 33.1----Zielona Zatoka----53.97291;21.76123----534.38----40----
+obiekty.Jacht----63a581dea9c24dfe450619ea----Maxus 33----Zielona Zatoka----53.97291;21.76123----405.0----40----
+obiekty.Jacht----634955b4379217308c0f44da----26----Port Royal----54.04424;21.74141----250.0----30----
+MOTORÓWKA----62bab2dfe8ee666341446cb7----Galia 700----Marina Gdynia----54.517676;18.54999----786.79----250----
+obiekty.Jacht----6335a2d6aed7d7d5ca00e941----26----Port Royal----54.04424;21.74141----220.0----30----
+obiekty.Jacht----6348fe36107b21ddbf05095f----33 MC----Port Royal----54.04424;21.74141----550.0----30----
+obiekty.Jacht----62b54e6537a82802b72ab80e----24.4----Zielona Zatoka----53.97291;21.76123----351.5----40----
+obiekty.Jacht----5fd8782483c47d3de0741465----30----Zielona Zatoka----53.97291;21.76123----360.0----40----
+obiekty.Jacht----641b2a13f9b881ce3a0088a5----700----Port Tło dla Mew----53.963983;21.757142----200.0----30----
+obiekty.Jacht----5edfe93373521a428844a96d----24----Port Tło dla Mew----53.963983;21.757142----275.0----30----
+MOTORÓWKA----62ac6d843155437f6e4f3969----260 SC----Zielona Zatoka----53.97291;21.76123----1520.0----260----
+obiekty.Jacht----634958424dcc22101b09ab56----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----5c56213daa3b2758b47c82a3----Maxus 26----Port AZS Wilkasy----54.008645;21.738013----361.64----50----
+MOTORÓWKA----632053d39c6ce0a429094c08----Activ 645----Ekomarina Giżycko----54.031943;21.772855----1000.0----150----
+obiekty.Jacht----5ee0bb3047dc357dad05e24d----22----Port Tło dla Mew----53.963983;21.757142----242.0----30----
+obiekty.Jacht----63495333dadb5977e80a890e----26----Port Royal----54.04424;21.74141----250.0----30----
+obiekty.Jacht----641b1760fe1ddf6e2f00d24f----24.4----Port Tło dla Mew----53.963983;21.757142----320.0----30----
+obiekty.Jacht----5fdb429abe1e7b2a99368bb8----Maxus 33.1----Port AZS Wilkasy----54.008645;21.738013----639.88----50----
