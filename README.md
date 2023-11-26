@@ -1,14 +1,31 @@
-# Object Programming
+# Java Programming
 
-Object Programming - part of Data Science Studies, 2nd semester, Warsaw University of Technology
+Java programming is an subject for *Inzynieria i Analiza Danych* at Faculty of Mathematics and Information Science, Warsaw University of Technology (course name in english translates to *Data Science and Data preprocessing*).
 
-The entire class is coded in **Java**, and here are some implementations of basic problems. Each folder contains a project that serves as a solution to a task specified in Polish in the .pdf file inside that folder.
+The entire class is implemented in **Java**, it's main goal is to learn object-oriented programming and how to apply it to efficiently work with large volumens of data, create programmer-friendly, self-explanatory code and provide best user experience.
 
-In this course, we learn:
-- Basic Java functions
-- The concept of object programming in Java, including class inheritance, interfaces, and abstract classes
-- Working with collections, including implementing Comparable interfaces and creating hash functions for custom objects
-- File and stream handling
-- Basic GUI (Graphical User Interface)
+## What We Learn
 
-This project allows us to acquire knowledge and practical experience in object programming in Java. It enables us to apply these skills to solve various problems.
+In this course, students acquire knowledge and practical experience in the following areas:
+
+- **Basic Java Functions:** Understanding and applying fundamental Java functionalities.
+
+- **Object-Oriented Programming in Java:** Exploring concepts such as class inheritance, interfaces, and abstract classes.
+
+- **Collections:** Implementing Comparable interfaces and creating hash functions for custom objects.
+
+- **File and Stream Handling:** Gaining proficiency in working with files and streams.
+
+- **Graphical User Interface (GUI):** Developing basic graphical interfaces.
+
+- **Working with Classes:** Utilizing internal, local, and anonymous classes effectively.
+
+- **Lambda Functions and Interfaces:** Exploring lambda functions and commonly used interfaces like Consumer.
+
+- **Streams:** Leveraging Java streams for efficient data processing.
+
+- **Reflections:** Understanding and applying reflection in Java.
+
+## Projects Overview
+
+The repository consists of projects that serve as practical exercises to reinforce the learned concepts. Each project is designed to provide hands-on experience in object programming in Java, allowing students to apply their skills to solve diverse problems. Some of the subprojects were provided with detailed task description in .pdf file, however they're in polish.
