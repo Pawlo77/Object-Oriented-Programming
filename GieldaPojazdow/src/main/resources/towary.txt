@@ -1,0 +1,33 @@
+auto-25000-Nissan-Almera-160-po wypadku
+moto-11600-Honda-GS 500-160-1
+other-120,50-Taczka do wywożenia na taczce
+other-90,99-worek na słomę
+other-19,99-pułapka na myszy
+moto-2000-Simson-X-55-2
+moto-5000-Honda-Transalp-180-2
+other-150-Kanister
+auto-5000-Saab-93-230-bezwypadkowy
+auto-111000-Volvo-XC60-190-bezwypadkowy
+auto-150000-Volvo-XC90-190-bezwypadkowy
+auto-99000-BMW-X5-200-po wypadku
+auto-23000-Fiat-Bravo-175-bezwypadkowy
+auto-1000-Fiat-126p-110-bezwypadkowy
+other-250-Wężownica
+moto-19000-Honda-CBF 500-160-2
+moto-999,99-Simson-X-50-2
+moto-21000-Honda-CB 1000-210-2
+moto-11600-Honda-GR 650-290-2
+horse-1000-Biały-25-5
+auto-20000-Saab-95-210-bezwypadkowy
+auto-1000-Polonez-Caro-150-po wypadku
+horse-2000-Karino-10-60
+horse-500-Stary-30-5
+other-5,90-Butelka szklana
+horse-10000-Dream-4-70
+moto-11600-Honda-GSX 1400-255-2
+horse-12000-Bolt-12-55
+other-100,20-Taczka
+other-540-2,4,6 Trinitrotoluen
+other-200-Radio samochodowe
+other-35-Bilety do teatru 
+other-55,99-Łopata
